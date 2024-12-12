@@ -1,0 +1,15 @@
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\bin\Debug\ConsoleAppServeurTCP.exe.config
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\bin\Debug\ConsoleAppServeurTCP.exe
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\bin\Debug\ConsoleAppServeurTCP.pdb
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.exe
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.pdb
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\bin\Debug\ConsoleAppServeurTCP.exe.config
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\bin\Debug\ConsoleAppServeurTCP.exe
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\bin\Debug\ConsoleAppServeurTCP.pdb
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.csproj.AssemblyReference.cache
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.exe
+C:\Users\Arthur\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurTCP\obj\Debug\ConsoleAppServeurTCP.pdb

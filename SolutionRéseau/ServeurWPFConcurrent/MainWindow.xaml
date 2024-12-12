@@ -1,0 +1,16 @@
+﻿<Window x:Class="ServeurWPFConcurrent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServeurWPFConcurrent"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BTNDebServeur" Content="Démarrer serveur" HorizontalAlignment="Left" Margin="58,368,0,0" VerticalAlignment="Top" Height="33" Width="197" Click="BTNDebServeur_Click"/>
+        <Button x:Name="BTNFinServeur" Content="Fin serveur" HorizontalAlignment="Left" Margin="566,368,0,0" VerticalAlignment="Top" Height="33" Width="197" Click="BTNFinServeur_Click"/>
+        <TextBox x:Name="AcuseRecept" HorizontalAlignment="Left" Margin="88,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox x:Name="ShutdownMessage" HorizontalAlignment="Left" Margin="604,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox x:Name="RequêteClient" HorizontalAlignment="Center" Margin="0,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\MainWindow.g.cs
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\App.g.cs
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent_MarkupCompile.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent_MarkupCompile.lref
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\bin\Debug\ServeurWPFConcurrent.exe.config
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\bin\Debug\ServeurWPFConcurrent.exe
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\bin\Debug\ServeurWPFConcurrent.pdb
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\MainWindow.baml
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.g.resources
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.Properties.Resources.resources
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.csproj.GenerateResource.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.exe
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ServeurWPFConcurrent\obj\Debug\ServeurWPFConcurrent.pdb

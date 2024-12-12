@@ -1,0 +1,7 @@
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\obj\Debug\ConsoleAppServeurConcurrent.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\obj\Debug\ConsoleAppServeurConcurrent.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\bin\Debug\ConsoleAppServeurConcurrent.exe.config
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\bin\Debug\ConsoleAppServeurConcurrent.exe
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\bin\Debug\ConsoleAppServeurConcurrent.pdb
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\obj\Debug\ConsoleAppServeurConcurrent.exe
+C:\Users\arthu\OneDrive\Documents\CAEN\BTS\Deuxième année\MmeTBER\TpWPF\SolutionRéseau\ConsoleAppServeurConcurrent\obj\Debug\ConsoleAppServeurConcurrent.pdb
